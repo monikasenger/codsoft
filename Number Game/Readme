@@ -10,3 +10,4 @@ You can add some additional details like:
 1. Limit the number of attempts the user has to guess the number.
 2. Add the option for multiple rounds, allowing the user to play again.
 3. Display the user's score, which can be based on the number of attempts taken or rounds won.
+
