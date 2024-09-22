@@ -35,7 +35,7 @@ public class NumberGame {
 	            //guess the number
 	            while (attempts < maxattempts && !guesscorrect) {
 	                attempts++;
-	                System.out.print("Attempt " + attempts + ":-\t Enter your guess: \n");
+	                System.out.print("Attempt " + attempts + ":-  Enter your guess: \t");
 	                int userGuess = sc.nextInt();
                    //guess correctly
 	                if (userGuess == guessnumber) {
